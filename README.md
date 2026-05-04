@@ -11,7 +11,7 @@
 ## Как запустить 
 ```
 git clone https://github.com/xyz-dsgn/Expense-Tracker
-cd Expense Tracker
+cd Expense-Tracker
 python main.py
 ```
 ## Как пользоваться
